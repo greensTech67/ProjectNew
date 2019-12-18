@@ -23,6 +23,8 @@ public class ClientDetails extends CourseDetails{
 		
 		ClientDetails cl = new ClientDetails();
 		System.out.println("New Code Added");
+		System.out.println("New Code Added");
+		System.out.println("New Code Added");
 		cl.cliName();
 		cl.cliId();
 		cl.cliLocation();
