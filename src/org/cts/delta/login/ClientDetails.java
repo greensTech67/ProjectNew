@@ -17,10 +17,12 @@ public class ClientDetails extends CourseDetails{
 
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		
 		ClientDetails cl = new ClientDetails();
-		
+		System.out.println("New Code Added");
 		cl.cliName();
 		cl.cliId();
 		cl.cliLocation();
